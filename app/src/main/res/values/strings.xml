@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Curtains</string>
+    <string name="str_menu_scan_devices">Scan Devices</string>
+    <string name="str_menu_paired_devices">Paired Devices</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/str_menu_paired_devices"
+        android:icon="@drawable/ic_baseline_phone_android_24"
+        android:id="@+id/menu_paired_devices"
+        app:showAsAction="always"></item>
+
+    <item android:title="@string/str_menu_scan_devices"
+        android:icon="@drawable/ic_baseline_search"
+        android:id="@+id/menu_scan_devices"
+        app:showAsAction="always"></item>
+
+</menu>
